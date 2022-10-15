@@ -1,0 +1,293 @@
+body{
+    background: #d3d3d3;
+}
+.img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -3;
+}
+.text{
+    text-align: center;
+    margin-top: 250px;
+ 
+    
+}
+.text h1{
+    font-size: 70px;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 82px;
+    color: #FFFFFF ;
+}
+.text p{
+   position: relative;
+   bottom: 20px;
+  font-size: 40px;
+  font-family: 'Roboto';
+  color:white;
+  font-weight: 400;
+  line-height: 47px;
+}
+.span{
+
+    color: yellow;
+}
+
+.text1 { 
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    width: 299px;
+    height: 203px;
+    margin-left: 526px;
+    margin-top: 19px;
+}
+.text1 span{
+    color: green;
+    font-size: 32px;
+}
+.text1 p{
+    width: 160px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 70px;
+    text-align: center;
+
+}
+.text2{
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    width: 300px;
+    height: 203px;
+    margin-left: 260px;
+    margin-top: 15px;
+   
+}
+.text2 p{
+    width: 229px;
+    font-size: 20px;
+    padding-top: 35px;
+    padding-left: 38px;
+    text-align: center;
+}
+
+
+.text3{
+    display: flex;
+}
+.span1{
+    font-size: 32px;
+    color: green;
+}
+.text4{
+    margin-top: 150px;
+    margin-left: 185px;
+    display: flex;
+  flex-direction: row;
+}
+.text4 h1{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+.region1{
+    width: 840px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+
+}
+.region{
+    width: 500px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+    
+}
+.map{
+    margin-top: 70px;
+    width: 716px;
+    height: 338px;
+
+   
+}
+.text5{
+    margin-top: 100px;
+    margin-left: 195px;
+    
+}
+.map3{
+    display: flex;
+}
+.tur1 img{
+   margin-left:120px;
+   margin: 30px;
+   
+}
+.text5 h1{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+.text5 p{
+    width:1000px ;
+    height: 1400px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+}
+
+.picture{
+    width: 300px;
+    height: 214px;
+    margin-left: 100px;
+    
+}
+.glav:hover{
+    color: tomato;
+    transition: all 0.3s ease;
+  
+
+}
+
+.div2{
+    margin-left: 50px;
+}
+.picture1{
+    width: 500px;
+    height: 379px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.picture2{
+    width: 370px;
+    height: 275px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.line{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    transform: rotate(-0.24deg);
+}
+.text6{
+margin-left:213px ;
+}
+.tur{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+
+.turism h1{
+
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+
+}
+.turism p{
+     width: 1500px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+}
+.tur1{
+    display: flex;
+}
+
+.img1{
+    margin-left: 90px;
+    width: 658px;
+    height:379px;
+
+}
+.img2{
+    width: 600px;
+    height: 284px;
+    margin-left: 89px;
+
+}
+.div{
+    margin-left: 80px;
+}
+.img3{
+    width: 658px;
+    height: 384px;
+}
+.img5{
+    width: 650px;
+    height: 400px;
+    margin-left: 80px;
+
+    
+}
+.img6{
+    width: 669px;
+    height: 403px;
+}
+.img7{
+    width: 669px;
+    height: 347px;
+    position: relative;
+    bottom: 30px;
+    
+}
+.flag{
+    text-align: center;
+    margin-top: 30px;
+}
+.flag1{
+    width: 218px;
+    margin-right: 100px;
+}
+.glav{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: black;
+ 
+}
+.line1{
+    border: 1px solid black;
+    transform: rotate(-0.24deg);
+}
+.h1{
+    margin-left: 250px;
+
+}
+.turism1 h1{
+    margin-left: 300px;
+}
+.turism1 p{
+width: 900px;
+}
+.turism2 h1{
+    margin-left: 300px
+}
+.turism2 p{
+    width: 900px;
+}
+.turism3 h1{
+    margin-left: 250px;
+}
+.turism3 p{
+    width: 900px;
+}

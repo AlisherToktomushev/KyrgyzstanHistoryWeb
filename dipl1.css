@@ -1,0 +1,208 @@
+body{
+    background: #C4C4C4;
+ 
+}
+
+
+ul ul {
+    position:absolute;
+      min-width:150px;
+     display: none;
+     padding-left: 0px;
+     padding-right: 15px;
+ }
+
+ ul li:hover ul{   
+    display: block;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.li1{
+    border: none;
+}
+
+
+.p1{
+    font-size: 40px;
+    border: none;
+}
+nav>ul>li>ul{
+    font-size: 30px;
+  
+}
+
+
+ ul li a{
+    display: block;
+     width: 200px;
+     padding: 15px;
+     text-decoration: none;
+     font-family: helvetica neue,helvetica,arial,sans-serif;
+     font-style: normal;
+     line-height: 47px;
+     color: white;
+     z-index:-3;
+   
+ }
+ ul li {
+     border-bottom:solid 1px #C4C4C4;
+ }
+  ul li a:hover{
+     color: tomato;
+     transition: all 0.3s ease;
+   
+ }
+
+ul >li{
+    list-style: none;
+}
+
+
+nav{
+    width: 150px;
+    margin-left: 157px;
+    margin-top: 51px;
+}
+.art1{
+text-align: center;
+margin-top: 350px;
+color: white;
+
+}
+.gimn{
+    margin-left: 118px;
+    margin-top: 70px;
+   
+    
+
+}
+.display{
+    display: flex;
+    
+}
+.gimn h1{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+    text-align: center;
+}
+.gimn1{
+    margin-left: 400px;
+    width: 300px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+.gimn2{
+    margin-left: 380px;
+    width: 300px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+.art1 h1{
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 82px;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+    
+}
+.art1 p{
+    font-size: 45px; 
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+  
+}
+.img1{
+    position: absolute;
+    top: 0px;
+    z-index: -3;
+}
+.geogr{
+    margin-top: 380px;
+    margin-left:118px ;
+ 
+}
+.geogr1>img{
+  width:842px ;
+border-radius: 25px;
+}
+.geogr >h1{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 43px;
+    text-align: center;
+    margin-right: 50px;
+
+}
+.geogr1{
+    display: flex;
+    margin-top: 50px;
+}
+.geogr1 >p{
+    width: 695px;
+    height: 327px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    padding-left: 47px;
+}
+.line{
+    margin-top: 32px;
+    border: 1px solid #000000;
+    transform: rotate(-0.21deg);
+}
+.history1{
+    display: flex;
+}
+.history1>p{
+    width: 1500px;
+    font-family: 'Roboto';
+    font-style: 400;
+    font-size: 20px;
+    line-height: 33px;
+}
+.history{
+    margin-top:30px;
+    margin-left: 160px;
+}
+.img2{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.img3{
+    margin-top: 65px;
+}
+.history >h1{
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 33px;
+    padding-right: 70px;
+   
+
+}
+.flag{
+    margin-top:83px ;
+    text-align: center;
+}
+.flag >h1{
+    margin-left: 30px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 40px;
+
+    color: #000000;
+
+}
+.flag>img{
+  margin-left: 40px;
+}
+.gerb{
+    border-radius: 115px;
+}

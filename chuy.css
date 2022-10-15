@@ -1,0 +1,296 @@
+body{
+    background: #d3d3d3;
+}
+.img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -3;
+}
+.text{
+    text-align: center;
+    margin-top: 250px;
+ 
+    
+}
+.text h1{
+    font-size: 70px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 82px;
+    color: #FFFFFF ;
+    margin-left: 30px;
+}
+.text p{
+   position: relative;
+   bottom: 20px;
+  font-size: 40px;
+  font-family: 'Roboto';
+  color:white;
+  font-weight: 400;
+  line-height: 47px;
+}
+.span{
+
+    color: yellow;
+}
+
+.text1 { 
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    width: 299px;
+    height: 203px;
+    margin-left: 526px;
+    margin-top: 19px;
+}
+.text1 span{
+    color: green;
+    font-size: 32px;
+}
+.text1 p{
+    width: 160px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 70px;
+    text-align: center;
+
+}
+.text2{
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    width: 300px;
+    height: 203px;
+    margin-left: 260px;
+    margin-top: 15px;
+   
+}
+.text2 p{
+    width: 229px;
+    font-size: 20px;
+    padding-top: 35px;
+    padding-left: 38px;
+    text-align: center;
+}
+
+
+.text3{
+    display: flex;
+}
+.span1{
+    font-size: 32px;
+    color: green;
+}
+.text4{
+    margin-top: 150px;
+    margin-left: 185px;
+    display: flex;
+  flex-direction: row;
+}
+.text4 h1{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+.region1{
+    width: 840px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+
+}
+.region{
+    width: 450px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+    
+}
+.map{
+    width: 716px;
+    height: 338px;
+
+   
+}
+.text5{
+    margin-top: 100px;
+    margin-left: 195px;
+    
+}
+.text5 h1{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+.map3 p{
+    width: 1000px;
+    
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+}
+.picture{
+    width: 513px;
+    height: 499px;
+    margin-left: 100px;
+}
+.div2 img{
+    margin: 30px;
+    width: 600px;
+   margin-left: 90px;
+}
+.picture1{
+    width: 600px;
+    height: 379px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.map3{
+    display: flex;
+}
+.line{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    transform: rotate(-0.24deg);
+}
+.line1{
+    
+    margin-top: 30px;
+    border: 1px solid black;
+    transform: rotate(-0.06deg);
+}
+.text6{
+margin-left:213px ;
+}
+.ism img{
+    width:370px ;
+    height: 235px;
+    margin-left: 50px;
+}
+.tur{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: green;
+}
+
+.turism h1{
+ 
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+
+}
+.turism p{
+    width: 915px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    font-family: 'Roboto';
+}
+.tur1{
+    display: flex;
+}
+.img1{
+    margin-top: 200px;
+    
+}
+
+.img2{
+    width: 613px;
+    height: 397px;
+    margin-left: 89px;
+}
+.img6{
+    width:613px;
+    height: 384px;
+    margin-left: 80px;
+   
+}
+.img7{
+    width: 356px;
+    height: 213px;
+    margin-top: 220px;
+
+   
+}
+.img5{
+    width: 613px;
+    height: 384px;
+    margin-left: 80px;
+
+}
+.img8{
+    width: 621px;
+    height: 430px;
+    margin-left: 80px;
+
+}
+.img9{
+    width: 621px;
+    height: 345px;
+    margin-left: 80px;
+  
+}
+.img10{
+   width: 600px; 
+   height: 305px;
+   margin-left: 80px;
+ 
+}
+.flag {
+    text-align: center;
+    margin-top: 100px;
+ 
+}
+.flag1{
+    width: 200px;
+    margin-right: 100px;
+}
+.glav:hover{
+    color: tomato;
+    transition: all 0.3s ease;
+  
+
+}
+
+.glav{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 47px;
+    font-family: 'Roboto';
+    color: black;
+ 
+}
+.h1{
+    margin-left: 280px;
+
+}
+.turism1 h1{
+    margin-left: 300px;
+}
+.turism2 h1{
+    margin-left: 280px
+}
+.turism3 h1{
+    margin-left: 280px;
+}
+
+.turism4 h1{
+    margin-left: 300px;
+}
+.turism5 h1{
+    margin-left: 230px
+}
